@@ -1,0 +1,13 @@
+.feedback {
+  margin: 15px;
+}
+
+.feedback-btn {
+  margin-bottom: 20px;
+}
+
+ul,
+li {
+  text-decoration: none;
+  list-style-type: none;
+}
