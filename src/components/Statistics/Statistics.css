@@ -14,4 +14,6 @@ li {
   font-weight: 700;
   line-height: 20px;
   color: darkgreen;
+  text-align: center;
+  line-height: 2;
 }
